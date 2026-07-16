@@ -1,0 +1,8 @@
+{"id":"minimal-motifs","prompt":"月亮、地铁、旧朋友","expected":"A first-person Chinese dream narrative, no interpretation."}
+{"id":"abstract-motifs","prompt":"蓝色、失重、找不到出口","expected":"A surreal first-person Chinese dream with all motifs included."}
+{"id":"gentle-eerie","prompt":"写一个温柔但有点诡异的梦：雨夜、白猫、电话亭","expected":"Gentle but slightly eerie, not horror."}
+{"id":"short-dream","prompt":"写一个 200 字以内的短梦：玻璃湖、童年、钟声","expected":"Under about 200 Chinese characters, first person."}
+{"id":"soft-nightmare","prompt":"写一个像噩梦但不要血腥的梦：电梯、镜子、空学校","expected":"Nightmare atmosphere without graphic gore."}
+{"id":"no-explanation","prompt":"只写梦，不要解释：雪、海底、陌生的家","expected":"Narrative only, no preface or symbolism."}
+{"id":"absurd-humor","prompt":"用荒诞黑色幽默写梦：会议、牙齿、自动售货机","expected":"Deadpan absurd tone with all motifs included."}
+{"id":"english","prompt":"Generate a surreal dream in English from: airport, paper sun, forgotten name.","expected":"English first-person surreal dream."}

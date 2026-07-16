@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dream Generator"
+  short_description: "Turn words, fragments, and emotions into vivid dream narratives."
+  default_prompt: "用这些意象写一个梦：月亮、地铁、旧朋友。"
