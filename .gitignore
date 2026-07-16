@@ -45,6 +45,11 @@ results/
 *.json
 !references/regression-prompts.jsonl
 
+# Node
+node_modules/
+package.json
+package-lock.json
+
 # Temporary files
 tmp/
 temp/
